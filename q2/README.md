@@ -10,7 +10,8 @@
   }
 
   - Python
-    - Given a search (Question) one needs to output top n (1-10) relavant documnents
+    - Given a search (Question) one needs to output top n (1-10) relavant documnent id(document_id
+)
       - def search(query)
     
   - Java
